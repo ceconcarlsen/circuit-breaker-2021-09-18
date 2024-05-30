@@ -13,7 +13,7 @@
   "dependencies": {
     "faker": "^5.5.3",
     "koa": "^2.13.1",
-    "koa-bodyparser": "^4.3.0",
+    "koa-bodyparser": "^4.4.1",
     "koa-router": "^10.1.1",
     "node-fetch": "^2.6.2"
   }
