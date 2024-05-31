@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "abort-controller": "^3.0.0",
-    "apollo-server": "^3.3.0",
+    "apollo-server": "^3.13.0",
     "graphql": "^15.5.3",
     "koa": "^2.13.1",
     "koa-bodyparser": "^4.3.0",
